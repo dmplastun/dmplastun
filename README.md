@@ -1,16 +1,38 @@
-# Hi, I'm Dmitry! 👋
-### Infrastructure & DevOps Engineer | 8+ Years in Enterprise IT
+# Hi there, I'm Dmitry! 👋
 
-I am a seasoned System Engineer with extensive experience in managing mission-critical banking infrastructure. Currently, I am bridging the gap between traditional virtualization (VMware) and Cloud-Native technologies.
-
-- 🏗 **Cloud-Native:** Hands-on experience with **Kubernetes (Minikube)**, Docker, and Helm.
-- 🛠 **Core Stack:** Linux (Ubuntu, Debian, Alt), VMware vSphere, Ansible.
-- ⚙️ **Automation & CI/CD:** Building pipelines with **GitHub Actions** and automating with Python/Bash.
-- 🔭 **Current Focus:** Deepening expertise in **DevSecOps** and production-grade K8s clusters.
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dmplastun)
+### Infrastructure & DevOps Engineer | 8+ Years in Enterprise IT (FinTech)
+I specialize in building reliable infrastructure and automating deployment pipelines. My current focus is scaling applications using **Kubernetes** and modern **Cloud-Native** tools.
 
 ---
-### 🛠 Technical Showcase
-- **Kubernetes:** Orchestrating microservices, managing ConfigMaps, Secrets, and Ingress.
-- **Virtualization:** 8 years of scaling and maintaining VMware-based environments.
-- **Monitoring:** Setting up Prometheus/Grafana stacks for full infrastructure visibility.
+
+### 🏗️ My Core Expertise: **Kubernetes & Cloud-Native**
+- **Container Orchestration:** Hands-on experience with **Kubernetes (K8s)** and **Minikube**. Managing Pods, Services, Ingress, and Deployments.
+- **Microservices Architecture:** Transitioning legacy applications into containerized environments using **Docker** and **Docker Compose**.
+- **CI/CD Automation:** Building production-ready pipelines with **GitHub Actions** and **Jenkins**.
+- **Infrastructure as Code (IaC):** Automating server provisioning and configuration management with **Ansible**.
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Orchestration** | **Kubernetes (K8s), Minikube**, Docker, Docker Compose |
+| **CI/CD** | **GitHub Actions**, Jenkins, GitOps (ArgoCD - learning) |
+| **Automation & IaC** | **Ansible**, Bash Scripting, Python |
+| **Linux Ecosystem** | Ubuntu, Debian, Alt Linux, Hardening & Security |
+| **Web & Databases** | Nginx (Reverse Proxy), PostgreSQL, Redis |
+
+---
+
+### 📊 Featured Projects
+- 🚀 **[microservices-app](https://github.com/dmplastun/microservices-app)**: A complete microservices lab featuring Docker, Nginx, and GitHub Actions CI/CD.
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/dmplastun](https://www.linkedin.com/in/dmplastun)
+- **Email:** dmitrij.plastun@gmail.com
+
+---
+*“Focusing on reliability, scalability, and the power of Kubernetes.”*
