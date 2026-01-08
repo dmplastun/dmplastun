@@ -26,7 +26,7 @@ I specialize in building reliable infrastructure and automating deployment pipel
 ---
 
 ### 📊 Featured Projects
-- 🚀 **[microservices-app](https://github.com/dmplastun/microservices-app)**: A complete microservices lab featuring Docker, Nginx, and GitHub Actions CI/CD.
+- 🚀 **[Microservices App with Docker Compose](https://github.com/dmplastun/microservices-app)**: A complete microservices lab featuring Docker, Nginx, and GitHub Actions CI/CD.
 - 🛠️ **[Ansible + Docker Lab Project](https://github.com/dmplastun/ansible-docker-lab)**: The repository demonstrates server configuration automation using Ansible with Docker containers as managed hosts.
 ---
 
