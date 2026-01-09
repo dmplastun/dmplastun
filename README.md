@@ -28,7 +28,7 @@ I specialize in building reliable infrastructure and automating deployment pipel
 ### 📊 Featured Projects
 - 🚀 **[Microservices App with Docker Compose](https://github.com/dmplastun/microservices-app)**: A complete microservices lab featuring Docker, Nginx, and GitHub Actions CI/CD.
 - 🛠️ **[Ansible + Docker Lab Project](https://github.com/dmplastun/ansible-docker-lab)**: The repository demonstrates server configuration automation using Ansible with Docker containers as managed hosts.
-- 📘 **[GitOps Project with ArgoCD and Helm]( https://dmplastun.github.io/gitops-demo-repo/)**: This repository contains Infrastructure as Code (IaC) and application configurations for automated Kubernetes deployments using the GitOps approach with ArgoCD and Helm charts.
+- 📘 **[GitOps Project with ArgoCD and Helm](https://github.com/dmplastun/gitops-demo-repo)**: This repository contains Infrastructure as Code (IaC) and application configurations for automated Kubernetes deployments using the GitOps approach with ArgoCD and Helm charts.
 - 🧪 **[Microservices App on Kubernetes with Helm](https://github.com/dmplastun/microservice-helm)**: This project demonstrates deployment of two microservices (Node.js and Python API) to Minikube using Helm and GitHub Actions automation.
 - **[DevOps Monitoring Stack (Docker + Nginx + Prometheus + Grafana)](https://github.com/dmplastun/devops-monitoring)**: This project, devops-monitoring, sets up a containerized monitoring stack using Docker, Nginx, Prometheus, and Grafana.
 
